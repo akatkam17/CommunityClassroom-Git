@@ -1,11 +1,2 @@
-Hey , this is akhil 
-i am an hireart employee
-
-
-No
-
-
-Hey , this is akhil 
-
-edit second.txt
-
+hi, this is akhil
+Hi this is akhil
